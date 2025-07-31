@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF‑8" />
+  <meta name="viewport" content="width=device-width, initial‑scale=1.0"/>
+  <title>Joseph Morgan Official Management</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; color: #333; }
+    header { background: #1a0dab; color: white; padding: 40px 20px; text-align: center; }
+    header h1 { margin: 0; font-size: 2em; }
+    main { padding: 20px; max-width: 800px; margin: auto; }
+    section { margin-bottom: 30px; }
+    a.button { display: inline-block; background: #1a0dab; color: white; padding: 12px 20px;
+                text-decoration: none; border-radius: 4px; margin-top: 10px; }
+    footer { text-align: center; padding: 20px; font-size: 0.9em; color: #666; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Joseph Morgan Official Management</h1>
+  </header>
+  <main>
+    <section>
+      <h2>Welcome Fans!</h2>
+      <p>Welcome to the official fan access page for <strong>Joseph Morgan</strong>. 
+         Here you can find information about our fan permit card, meet‑and‑greet events, and official booking inquiries.</p>
+    </section>
+    <section>
+      <h2>🎟️ Fan Permit Card</h2>
+      <p>Apply to become a verified fan and receive:</p>
+      <ul>
+        <li>Priority updates and early event notices</li>
+        <li>Invites to exclusive online sessions and virtual Q&A</li>
+        <li>Access to behind‑the‑scenes content and merchandise offers</li>
+      </ul>
+      <a class="button" href="mailto:fanaccessjosephmorganofficial@gmail.com?subject=Permit%20Card%20Request">Apply Now</a>
+    </section>
+    <section>
+      <h2>📅 Meet & Greet Requests</h2>
+      <p>If you're interested in attending an upcoming appearance or event, you can inquire directly through our fan access inbox. We'll respond within 48 hours with eligibility and availability details.</p>
+    </section>
+    <section>
+      <h2>📧 Contact Us</h2>
+      <p>Have any questions or special requests? Send us an email at <a href="mailto:fanaccessjosephmorganofficial@gmail.com">
+         fanaccessjosephmorganofficial@gmail.com</a> and include your name, country, and message.</p>
+    </section>
+  </main>
+  <footer>
+    &copy; 2025 Joseph Morgan Official Management. This is the only verified source for fan access and bookings.
+  </footer>
+</body>
+</html>
